@@ -1,4 +1,20 @@
-# Homebroker
+# frontend-cotacoes
+
+
+Este projeto consiste na construção de uma página para interagir com a API de cotações, pela Santander Dev Week. Foi utilizado o framework Angular para o desenvolvimento e o GitHub Pages para hospedar a página.
+
+A página pode ser acessada [aqui](https://gabrielfirmo.github.io/frontend-cotacoes/)
+
+O projeto foi desenvolvido em conjunto com o back end, que pode ser consultado [aqui](https://github.com/gabrielfirmo/api-cotacoes).
+
+
+**Obs:** A primeira requisição pode demorar para carregar, pois o Heroku, em sua versão gratuita, possui várias limitações quanto a disponibilidade da aplicação.
+
+## Recursos utilizados
+- Angular 11
+- Visual Studio Code
+- Node.js
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
