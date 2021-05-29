@@ -14,6 +14,7 @@ O projeto foi desenvolvido em conjunto com o back end, que pode ser consultado [
 - Angular 11
 - Visual Studio Code
 - Node.js
+- Github Pages
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
