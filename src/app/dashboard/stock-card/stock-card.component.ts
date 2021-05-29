@@ -10,10 +10,12 @@ export class StockCardComponent implements OnInit {
 
   @Input()
   stock = new Stock;
-  
+
   constructor() { }
 
   ngOnInit(): void {
   }
+
+  
 
 }
